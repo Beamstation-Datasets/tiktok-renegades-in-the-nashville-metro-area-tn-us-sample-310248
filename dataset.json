@@ -1,0 +1,22 @@
+{
+  "base_price": 495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>3k) but near-zero activity on TikTok presence. \n\nPerfect for social media and content agencies.",
+  "config_name": "TikTok Renegades in the Nashville Metro Area, TN, US",
+  "export_job_id": "c6b372e5-e506-4c6f-bc76-0bddbec00a4c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 310248,
+  "location_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+  "location_type": "metro",
+  "repo_name": "tiktok-renegades-in-the-nashville-metro-area-tn-us-sample-310248",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/310248/beamstation_310248_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
+  "sample_pct": 8.47,
+  "sample_records": 5,
+  "sample_sha256": "8ad859a935d33274df57919158e2741af9f5df01adfacaf3770fccacfec28fdd",
+  "sample_size_bytes": 37043,
+  "total_records": 59,
+  "updated_at": "2026-03-31T23:08:41.567909+00:00"
+}
