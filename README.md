@@ -1,6 +1,6 @@
 # TikTok Renegades in the Nashville Metro Area, TN, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `310248` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 60 records |
-| Free sample size | 6 records (10.0%) |
-| Last export | 2026-04-15T00:39:59.662428+00:00 |
+| Full dataset size | 91 records |
+| Free sample size | 9 records (9.89%) |
+| Last export | 2026-04-22T04:54:25.136531+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tiktok-renegades-in-the-nashville-metro-area-tn-us-sample-310248/releases/download/sample-latest/beamstation_310248_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
