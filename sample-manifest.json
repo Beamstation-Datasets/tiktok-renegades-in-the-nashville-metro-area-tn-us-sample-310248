@@ -1,12 +1,12 @@
 {
-  "export_job_id": "735cedee-b984-4d16-a088-01e4b92b4ee8",
+  "export_job_id": "2c70f378-7f54-4563-9956-4ea86175a4d9",
   "id_short": 310248,
-  "published_at": "2026-04-22T07:20:40Z",
+  "published_at": "2026-04-29T19:06:19Z",
   "repo_name": "tiktok-renegades-in-the-nashville-metro-area-tn-us-sample-310248",
   "sample_asset_name": "beamstation_310248_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/310248/beamstation_310248_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_records": 9,
-  "sample_sha256": "9cccb798c2f8c0bc59694c13efa2a6482e73c5c08be219f9245750fea5f05adf",
-  "sample_size_bytes": 52681,
-  "total_records": 91
+  "sample_sha256": "d4b0748f974181873b38cf2415694e0ba59c35725faebfed31c7b62a655da2cc",
+  "sample_size_bytes": 53973,
+  "total_records": 95
 }
