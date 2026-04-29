@@ -9,9 +9,9 @@
 | Dataset ID | `310248` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 91 records |
-| Free sample size | 9 records (9.89%) |
-| Last export | 2026-04-22T04:54:25.136531+00:00 |
+| Full dataset size | 95 records |
+| Free sample size | 9 records (9.47%) |
+| Last export | 2026-04-29T07:10:51.493078+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tiktok-renegades-in-the-nashville-metro-area-tn-us-sample-310248/releases/download/sample-latest/beamstation_310248_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
